@@ -1,0 +1,39 @@
+Section 1:
+-Answer the following 9 questions, divided into three groups.
+
+Hard Skills (Questions to identify a candidate’s technical knowledge and abilities.)
+1. What is your quality assurance process for writing code and how do you spot a bug in an application?
+First, i make sure i underStand the application indepth and prepare good testing cases bofore starting with testing.
+
+
+2. Aside from functionality and design, what do you consider to be the key attributes of an application, and how would you test for them?
+Reusability:
+Software reuse is a good cost-efficient and time-saving development method. Different code library classes should be generic enough to be easily used in different application
+Testability:
+The application should be easy to test and find defects. If required, it should be easy to divide into different modules for testing.
+
+3. How do you keep your coding workflow organized?
+keeping a Good file structure and writing DRY codes but not too DRY.
+
+Behavioral (Questions to determine how a candidate handled situations in the past.)
+4. Tell me about a time when you had to deal with a coworker who was behind schedule on a joint project? How did you handle the situation?
+I try my best to do as much work i can on the project, not allowing my co-worker's negligence to have an impact on an ongoing project.
+
+5. Think about the most challenging piece of code you’ve ever written. Tell me about the project. Why was it so challenging for you and what did you learn from the experience?
+ My previous project i worked on, an online banking webApp built with react. It was challenging because it covered some advanced javascript concept but pulled through.
+ i learnt that no application is impossible to build if you look hard  enough.
+
+6. Tell me about a time when you disagreed with a client or a stakeholder on a software engineering best practice. What did you do to resolve the situation?
+I try my best to prove my points with fact.
+
+Soft Skills (Questions to assess a candidate’s personal traits and cognitive skills.)
+7. Imagine you have a great idea for an important software project that you aren’t personally involved in within an organization. What would you do?
+Aproach the lead engineer of the project and present my idea. The idea shouldn't die because i'm not invoved in the project.
+
+8. Describe the traits your ideal product team would have.
+Continuously improving.
+Complementary of others.
+safe space 
+
+9. What resources would you recommend to anyone looking to become a better software engineer?
+FreecodeCamp, udemy and youtube are my top 3 due to the fact that anyone with low income can still start their journey.
